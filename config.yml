@@ -1,0 +1,2 @@
+addresses: "scan" # "scan" to scan 0.0.0.0/0 for port 27017, "file" to load IP addresses to dump from file
+file: "addresses.txt" # File to load IP addresses from, ignored if addresses is set to "scan"
